@@ -62,9 +62,9 @@ Send Inquiry
 Requirements
 
 -Download and Install any local web server such as XAMPP/WAMP.
--Download the provided source code zip file. (download button is located below)
-Installation/Setup
+-Download the provided source code zip file.
 
+Installation/Setup
 -Open your XAMPP/WAMP's Control Panel and start Apache and MySQL.
 -Extract the downloaded source code zip file.
 -If you are using XAMPP, copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory. And If you are using WAMP, paste it into the "www" directory.
