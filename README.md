@@ -1,20 +1,30 @@
 # Railway-Reservation-System
 Language:PHP
+
 This is a PHP Project entitled Online Railway Reservation System. It is a web-based application that provides an online platform for railway or train station passengers or possible passengers to explore their schedules and reserve a seat.
 
 I developed this project using the following:
 
- 
 XAMPP v3.3.0 as my local webserver that has a PHP Version 8.0.7
+
 PHP Language
+
 MySQL Database
+
 HTML
+
 CSS
+
 JavaScript
+
 jQuery
+
 Ajax
+
 Bootstrap
+
 AdminLTE
+
 and some other plugins/libraries.
 
 -Features
