@@ -18,43 +18,77 @@ AdminLTE
 and some other plugins/libraries.
 
 -Features
+
 Management Side
 
 Secure Login and Logout
+
 Dashboard
+
 Display Summary
+
 Manage Trains
+
 Add New Train
+
 List All Trains
+
 Update Train Details
+
 Delete Train Details
+
 Manage Schedules
+
 Add New Daily Schedule
+
 Add New One-Time Schedule
+
 List All Daily Schedule
+
 List All One-Time Schedule
+
 Update Schedule Details
+
 Delete Schedule
+
 Manage Reservation
+
 List All Reservations
+
 View Reservations Details
+
 Print Reservations Details
+
 Delete Reservations Details
+
 Manage Inquiries
+
 List All Inquiries
+
 View/Read Inquiry Details
+
 Delete Inquiry Details
+
 Manage Users list (CRUD)
+
 Manage Account Details/Credentials
+
 Manage System Information
+
 Public Side
 
 Home Page (Displays the Welcome Content)
+
 Display Railway's Schedules
+
 Filter Schedule or Search Available Schedule near the entered date and time
+
 Submit Reservation
+
 Print Reservation Ticket(s)
+
 Read About Content
+
 Send Inquiry
 
 
